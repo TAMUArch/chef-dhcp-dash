@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: chef-dhcp-dash
+# Cookbook Name:: dhcp-dash
 # Recipe:: default
 #
 # Copyright (C) 2014 YOUR_NAME
@@ -8,7 +8,6 @@
 #
 
 include_recipe 'git'
-
 include_recipe 'rbenv'
 include_recipe 'rbenv::ruby_build'
 include_recipe 'rbenv::rbenv_vars'
