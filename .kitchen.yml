@@ -12,5 +12,5 @@ platforms:
 suites:
   - name: default
     run_list:
-      - recipe[chef-dhcp-dash::default]
+      - recipe[dhcp-dash::default]
     attributes:

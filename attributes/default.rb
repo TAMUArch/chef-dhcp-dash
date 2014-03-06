@@ -1,1 +1,1 @@
-node.default[:rbenv][:group_users] = "vagrant"
+node.default['rbenv']['group_users'] = 'vagrant'
