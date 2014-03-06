@@ -1,7 +1,7 @@
 name             'dhcp-dash'
-maintainer       'YOUR_NAME'
-maintainer_email 'YOUR_EMAIL'
-license          'All rights reserved'
+maintainer       'Texas A&M'
+maintainer_email 'vblessing@arch.tamu.edu'
+license          'mit'
 description      'Installs/Configures dhcp-dash'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 version          '0.1.0'
