@@ -14,7 +14,6 @@ include_recipe 'rbenv::rbenv_vars'
 
 rbenv_ruby '2.1.0' do
   global true
-  shell true
 end
 
 rbenv_gem 'bundler' do
